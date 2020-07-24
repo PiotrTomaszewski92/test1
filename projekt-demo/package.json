@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "post-merge": "../post_merge_hook.sh"
+      "post-merge": "../post_merge_hook.ps1"
     }
   },
   "private": true,
